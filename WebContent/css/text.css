@@ -1,0 +1,26 @@
+	#ps-profile {
+        width: 660px;      
+ 		padding: 20px;
+        margin-bottom: 10px;
+        float: center;
+        border: 2px solid #f5e020;
+        font-family: "나눔고딕", "맑은 고딕", sans-serif;
+        text-decoration: none;
+      }
+	#ps-sns {
+        width: 750px;
+        padding: 20px;
+        margin-bottom: 10px;
+        float: center;
+        border: 2px solid #58dced;
+        text-decoration: none;
+      }
+   	#ps-photo{
+		width: 600px;
+	 	margin: 10px;
+        padding: 20px;
+        border: 2px solid #f078aa;
+        text-decoration: none;
+      }
+      
+	
